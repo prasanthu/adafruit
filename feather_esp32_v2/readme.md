@@ -23,5 +23,5 @@ Follow instructions here: https://learn.adafruit.com/adafruit-128x64-oled-feathe
 - Add "Adafruit SH110x" library to the sketch
 - This adds additional libs (including Adafruit GFX)
 
-Now you can run the example code for the display [./OLED_featherwing.ino]
+Now you can run the example code for the display [./OLED_featherwing/OLED_featherwing.ino]
 
